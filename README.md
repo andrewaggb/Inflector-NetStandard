@@ -1,6 +1,6 @@
-# Inflector Portable
+# Inflector NetStandard
 
-Inflector is a simple lightweight .NET portable class library enabling you to pluralize, singularize, 
+Inflector is a simple lightweight .NET netstandard class library enabling you to pluralize, singularize, 
 titleize (...) words in a specific culture.
 
 #### Pluralize
@@ -188,4 +188,4 @@ Distributed as a NuGet package [here](https://www.nuget.org/packages/Inflector.P
 
 
 ---
-This library is based on original work by Scott Kirkland (https://github.com/srkirkland/Inflector).
+This library is based on original work by Scott Kirkland (https://github.com/srkirkland/Inflector) and (https://github.com/abelepereira/Inflector-Portable)
