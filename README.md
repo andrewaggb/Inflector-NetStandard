@@ -188,4 +188,4 @@ Distributed as a NuGet package [here](https://www.nuget.org/packages/Inflector.P
 
 
 ---
-This library is based on original work by Scott Kirkland (https://github.com/srkirkland/Inflector) and (https://github.com/abelepereira/Inflector-Portable)
+This library is based on original work by Scott Kirkland (https://github.com/srkirkland/Inflector) and Abel Pereira (https://github.com/abelepereira/Inflector-Portable)
