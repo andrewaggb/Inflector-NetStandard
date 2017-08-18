@@ -4,11 +4,21 @@
     <TargetFramework>netstandard1.3</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>1.2.0</Version>
-    <Description>Lightweight .NET Inflector built targeting Net Standard</Description>
+    <Description>Inflector is a simple lightweight .NET netstandard class library enabling you to pluralize, singularize, titleize (...) words in a specific culture.
+
+More info available at:
+https://github.com/andrewaggb/Inflector-NetStandard
+
+This library is based on https://github.com/abelepereira/Inflector-Portable but recompiled to target .net standard</Description>
     <Company />
-    <Product>Inflector Net Standard</Product>
+    <Product>Inflector NetStandard</Product>
     <Authors>Andrew Buchanan, Abel Pereira, Scott Kirkland</Authors>
-    <PackageTags>camelize, pascalize, dasherize, singularize, capitalize, titleize, pluralize, humanize, ordinalize, portable, inflector</PackageTags>
+    <PackageTags>camelize, pascalize, dasherize, singularize, capitalize, titleize, pluralize, humanize, ordinalize, netstandard, inflector</PackageTags>
+    <PackageProjectUrl>https://github.com/andrewaggb/Inflector-NetStandard</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageLicenseUrl>https://github.com/andrewaggb/Inflector-NetStandard/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <Copyright>Copyright (c) 2017 Andrew Buchanan</Copyright>
+    <PackageId>Inflector.NetStandard</PackageId>
   </PropertyGroup>
 
 </Project>
