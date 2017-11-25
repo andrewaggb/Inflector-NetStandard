@@ -184,7 +184,7 @@ Example for english culture rules:
 
 
 ---
-Distributed as a NuGet package [here](https://www.nuget.org/packages/Inflector.Portable).
+Distributed as a NuGet package [here](https://www.nuget.org/packages/Inflector.NetStandard).
 
 
 ---
